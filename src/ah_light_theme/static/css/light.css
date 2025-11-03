@@ -13,7 +13,7 @@ html, body {
 }
 
 input, * {
-  background-color: transparent;
+  background-color: #fff;
   color: #333333;
   margin: 2px 2px;
   font-family: ui-sans-serif, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, Helvetica, "Apple Color Emoji", Arial, "Segoe UI Emoji", "Segoe UI Symbol";
@@ -96,7 +96,7 @@ chat-message {
   padding: 4px 8px;
   margin: 2px 0;
   display: block;
-  background-color: transparent;
+  background-color: #fff;
 }
 
 .outer-msg {
@@ -126,7 +126,7 @@ chat-message:first-of-type .outer-msg.without-avatar {
 }.message {
   padding: 5px 5px;
   margin: 0;
-  background-color:  transparent;
+  background-color:  #fff;
 }
 
 .outer-msg.user {
@@ -173,7 +173,7 @@ chat-message:first-of-type .outer-msg.without-avatar {
 .spacer {
   height: 0.25em;
   display: block;
-  background-color: transparent;
+  background-color: #fff;
 }
 
 textarea, .text_lg {
