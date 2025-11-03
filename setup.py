@@ -8,7 +8,7 @@ setup(
     include_package_data=True,
     package_data={
         'ah_light_theme': [
-            'static/js/*.css'.
+            'static/js/*.css',
             'inject/*.jinja2',
         ],
     },
